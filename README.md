@@ -7,3 +7,4 @@ In the following some interesting and useful links:
 * https://github.com/disaster-robotics-proalertas/usv_sim_lsa
 * https://www.microtransat.org/
 * https://www.roboticsailing.org
+* https://www.saildrone.com/
